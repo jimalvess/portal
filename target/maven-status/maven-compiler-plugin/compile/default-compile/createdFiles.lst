@@ -1,0 +1,5 @@
+com\portal\model\Person.class
+com\portal\service\PersonServiceImpl.class
+com\portal\service\PersonService.class
+com\portal\dao\PersonDAO.class
+com\portal\dao\PersonDAOImpl.class
